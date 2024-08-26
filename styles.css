@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #06081b;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -47,7 +47,7 @@ header nav ul li a {
 
 .hero {
     height: 80vh;
-    background: #444 url('hero-bg.jpg') center/cover no-repeat;
+    background: #1e1e3b url('hero-bg.jpg') center/cover no-repeat;
     color: #fff;
     text-align: center;
     display: flex;
@@ -88,7 +88,7 @@ section {
 h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: #007bff;
+    color:#222965;
 }
 
 .project, .experience {
@@ -97,7 +97,7 @@ h2 {
 
 .project h3, .experience h3 {
     font-size: 1.5rem;
-    color: #444;
+    color: #0f0f0f;
 }
 
 .project p, .experience p {
